@@ -1,3 +1,1 @@
 # kairos-monitor-service
-
-test
